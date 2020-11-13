@@ -1,9 +1,14 @@
 theme: jekyll-theme-minimal
-title: GitHub pages template
-description: A simple template based on minimal jekyll theme
-show_downloads: True
+title: My page
+description: A simple attempt at cv website
+logo: profile.jpg
+show_downloads: False
 navigation:
   - title: Home
     url: /
-  - title: Setup
-    url: setup
+  - title: CV
+    url: cv.md
+  - title: Research
+    url: research.md
+  - title: Journalism
+    url: journalism.md
